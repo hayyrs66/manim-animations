@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/sinwave/1080p60/partial_movie_files/Myscene/1413466013_4134264687_223132457.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/sinwave/1080p60/partial_movie_files/Myscene/1672018281_2292429055_735610782.mp4'

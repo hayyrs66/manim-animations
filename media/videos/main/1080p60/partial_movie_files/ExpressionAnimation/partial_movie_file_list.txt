@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/ExpressionAnimation/1413466013_2326880438_223132457.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/ExpressionAnimation/1672018281_345352296_2789147272.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/ExpressionAnimation/1672018281_2135084884_705581954.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/ExpressionAnimation/1672018281_345352296_1910616407.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/ExpressionAnimation/1672018281_1300150030_3815931342.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/ExpressionAnimation/1672018281_345352296_4194114659.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/ExpressionAnimation/1672018281_3082838127_3295820221.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/ExpressionAnimation/1672018281_345352296_4104813468.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/ExpressionAnimation/1672018281_899711332_1585696176.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/ExpressionAnimation/1672018281_345352296_925423714.mp4'

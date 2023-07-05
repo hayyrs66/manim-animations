@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/TransformEquations/1413466013_1691186581_223132457.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/TransformEquations/1672018281_1270670337_3010281636.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/TransformEquations/1672018281_1838311224_2358810818.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/TransformEquations/1672018281_3610469776_223132457.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/TransformEquations/1672018281_4145174365_4182986183.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/TransformEquations/1672018281_2280771413_2358810818.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/TransformEquations/1672018281_2527186173_223132457.mp4'
+file 'file:C:/Users/rayrd/OneDrive/Documentos/testproject/media/videos/main/1080p60/partial_movie_files/TransformEquations/1672018281_345352296_339660999.mp4'
